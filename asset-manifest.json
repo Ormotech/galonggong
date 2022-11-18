@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/galonggong/static/css/main.073c9b0a.css",
-    "main.js": "/galonggong/static/js/main.ab1bc3a9.js",
+    "main.css": "/galonggong/static/css/main.e6c13ad2.css",
+    "main.js": "/galonggong/static/js/main.c62da0c9.js",
     "static/js/787.fe1675bb.chunk.js": "/galonggong/static/js/787.fe1675bb.chunk.js",
-    "static/media/logo.svg": "/galonggong/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/galonggong/index.html",
-    "main.073c9b0a.css.map": "/galonggong/static/css/main.073c9b0a.css.map",
-    "main.ab1bc3a9.js.map": "/galonggong/static/js/main.ab1bc3a9.js.map",
+    "main.e6c13ad2.css.map": "/galonggong/static/css/main.e6c13ad2.css.map",
+    "main.c62da0c9.js.map": "/galonggong/static/js/main.c62da0c9.js.map",
     "787.fe1675bb.chunk.js.map": "/galonggong/static/js/787.fe1675bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ab1bc3a9.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c62da0c9.js"
   ]
 }
